@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "770776302386",
+    "project_id": "flutter-app-chat-cbaf8",
+    "storage_bucket": "flutter-app-chat-cbaf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770776302386:android:1d0b6bfcf323b6b2144d2b",
+        "android_client_info": {
+          "package_name": "nabihu.com.flutter_chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxIMoH63IneZyzmkoQeAGKxGuDhtL9cpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
